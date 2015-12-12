@@ -1,0 +1,23 @@
+body{
+	/*background-color: green;*/
+}
+/*menu*/
+#menu li{
+	display: inline-block;
+}
+#menu a{
+	display: block;
+}
+/*menu end*/
+
+/*view all*/
+.news{
+	width: 25%;
+	float: left;
+}
+img{
+	border: 1px solid red;
+	width: 100%;
+	height: 200px;
+}
+/*end view all*/
